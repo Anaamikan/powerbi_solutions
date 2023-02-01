@@ -7,6 +7,3 @@
 4.No need of paid licence for viewing dashboards. In case of sharing reports with in org we need paid licence.
 5.Row level security additional security in Power bi.
 6.
-
-
-6
