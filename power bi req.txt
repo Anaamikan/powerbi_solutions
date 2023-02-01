@@ -1,0 +1,9 @@
+1.what types of report?
+2.What Type of data source are used, flat files or database or both? 
+3.In case of fetching data from database, are we using oltp database or olap?
+  a.cloud database or on premises.
+  b.In case of using on premises database, VPN connection is required to access the databases for modeling.
+  c.In case of using cloud, end point is required to access the databases for modeling.
+4.No need of paid licence for viewing dashboards. In case of sharing reports with in org we need paid licence.
+5.Row level security additional security in Power bi.
+6.
